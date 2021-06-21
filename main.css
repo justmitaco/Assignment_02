@@ -1,0 +1,17 @@
+h3 {
+    font-size: bold;
+    margin-left: 30px;
+}
+
+#timer {
+    margin-left: 30px;
+    font-size: 50px;
+    letter-spacing: 5px;
+}
+
+#start {
+    margin-top: 40px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
